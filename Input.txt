@@ -1,0 +1,8 @@
+Name,Type,Stage    (Type must be of a valid Type, Stage must be of a valid Stage, and no spaces)
+Samien,Dragon,Simpleton
+Jeff,Elf,ExtRavaGant
+Oskar,HOBBIT,Omnipotent
+Rob,Wizard,Omnipotent
+Admin,Wizard,OMNIPOTENT
+Bestest,Dragon,OMNIPotent
+Callum,Dragon,Omnipotent
